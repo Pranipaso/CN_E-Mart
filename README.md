@@ -4,7 +4,7 @@
 
 This is an ECommerce Application built using React. It allows user to add products, edit products, delete products, add products to cart and remove products from cart.
 
-## Props
+## Feeature
 
 - **Add Products**
 - **Edit Products**
